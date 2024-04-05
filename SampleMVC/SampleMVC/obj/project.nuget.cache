@@ -1,0 +1,108 @@
+{
+  "version": 2,
+  "dgSpecHash": "L71W/cP/o8I6vuyYzgrbZ5l0L7YcMD7+4CAcNNmr85EaeFHOmr6u/Xx6vavxK5PDbMDA/A4sgbB23GrSCzxkXQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\vipul.sharma\\FInal-Project\\dotnetapp\\SampleMVC\\SampleMVC\\SampleMVC.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation (>= 8.0.3)' for 'net8.0'.",
+      "libraryId": "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.EntityFrameworkCore (>= 8.0.3)' for 'net8.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.EntityFrameworkCore.Design (>= 8.0.3)' for 'net8.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Design",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.EntityFrameworkCore.SqlServer (>= 8.0.3)' for 'net8.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.EntityFrameworkCore.Tools (>= 8.0.3)' for 'net8.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Tools",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.VisualStudio.Azure.Containers.Tools.Targets (>= 1.19.6)' for 'net8.0'.",
+      "libraryId": "Microsoft.VisualStudio.Azure.Containers.Tools.Targets",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.VisualStudio.Web.CodeGeneration.Design (>= 8.0.2)' for 'net8.0'.",
+      "libraryId": "Microsoft.VisualStudio.Web.CodeGeneration.Design",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'MySql.Data (>= 8.3.0)' for 'net8.0'.",
+      "libraryId": "MySql.Data",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'MySql.Data.EntityFrameworkCore (>= 8.0.22)' for 'net8.0'.",
+      "libraryId": "MySql.Data.EntityFrameworkCore",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'MySql.EntityFrameworkCore (>= 8.0.0)' for 'net8.0'.",
+      "libraryId": "MySql.EntityFrameworkCore",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Pomelo.EntityFrameworkCore.MySql (>= 8.0.2)' for 'net8.0'.",
+      "libraryId": "Pomelo.EntityFrameworkCore.MySql",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

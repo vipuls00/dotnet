@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SampleMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1459EA43-CBE7-4AED-8437-979917C9D0AD}|SampleMVC\\SampleMVC.csproj|d:\\samplemvc\\samplemvc\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1459EA43-CBE7-4AED-8437-979917C9D0AD}|SampleMVC\\SampleMVC.csproj|solutionrelative:samplemvc\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1459EA43-CBE7-4AED-8437-979917C9D0AD}|SampleMVC\\SampleMVC.csproj|d:\\samplemvc\\samplemvc\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1459EA43-CBE7-4AED-8437-979917C9D0AD}|SampleMVC\\SampleMVC.csproj|solutionrelative:samplemvc\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1459EA43-CBE7-4AED-8437-979917C9D0AD}|SampleMVC\\SampleMVC.csproj|d:\\samplemvc\\samplemvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1459EA43-CBE7-4AED-8437-979917C9D0AD}|SampleMVC\\SampleMVC.csproj|solutionrelative:samplemvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1459EA43-CBE7-4AED-8437-979917C9D0AD}|SampleMVC\\SampleMVC.csproj|d:\\samplemvc\\samplemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1459EA43-CBE7-4AED-8437-979917C9D0AD}|SampleMVC\\SampleMVC.csproj|solutionrelative:samplemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1459EA43-CBE7-4AED-8437-979917C9D0AD}|SampleMVC\\SampleMVC.csproj|d:\\samplemvc\\samplemvc\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1459EA43-CBE7-4AED-8437-979917C9D0AD}|SampleMVC\\SampleMVC.csproj|solutionrelative:samplemvc\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1459EA43-CBE7-4AED-8437-979917C9D0AD}|SampleMVC\\SampleMVC.csproj|d:\\samplemvc\\samplemvc\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1459EA43-CBE7-4AED-8437-979917C9D0AD}|SampleMVC\\SampleMVC.csproj|solutionrelative:samplemvc\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1459EA43-CBE7-4AED-8437-979917C9D0AD}|SampleMVC\\SampleMVC.csproj|d:\\samplemvc\\samplemvc\\samplemvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1459EA43-CBE7-4AED-8437-979917C9D0AD}|SampleMVC\\SampleMVC.csproj|solutionrelative:samplemvc\\samplemvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1459EA43-CBE7-4AED-8437-979917C9D0AD}|SampleMVC\\SampleMVC.csproj|d:\\samplemvc\\samplemvc\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1459EA43-CBE7-4AED-8437-979917C9D0AD}|SampleMVC\\SampleMVC.csproj|solutionrelative:samplemvc\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC730236-8E18-4B18-9467-7E3828610788}|docker-compose.dcproj|d:\\samplemvc\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FC730236-8E18-4B18-9467-7E3828610788}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1459EA43-CBE7-4AED-8437-979917C9D0AD}|SampleMVC\\SampleMVC.csproj|d:\\samplemvc\\samplemvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1459EA43-CBE7-4AED-8437-979917C9D0AD}|SampleMVC\\SampleMVC.csproj|solutionrelative:samplemvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1459EA43-CBE7-4AED-8437-979917C9D0AD}|SampleMVC\\SampleMVC.csproj|d:\\samplemvc\\samplemvc\\migrations\\20240329043617_addingbooktable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1459EA43-CBE7-4AED-8437-979917C9D0AD}|SampleMVC\\SampleMVC.csproj|solutionrelative:samplemvc\\migrations\\20240329043617_addingbooktable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SampleMVC\\SampleMVC\\Program.cs",
+              "RelativeDocumentMoniker": "SampleMVC\\Program.cs",
+              "ToolTip": "D:\\SampleMVC\\SampleMVC\\Program.cs",
+              "RelativeToolTip": "SampleMVC\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAcwBYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T04:19:27.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\SampleMVC\\SampleMVC\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "SampleMVC\\Models\\Book.cs",
+              "ToolTip": "D:\\SampleMVC\\SampleMVC\\Models\\Book.cs",
+              "RelativeToolTip": "SampleMVC\\Models\\Book.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T04:23:32.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\SampleMVC\\SampleMVC\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SampleMVC\\AppDbContext.cs",
+              "ToolTip": "D:\\SampleMVC\\SampleMVC\\AppDbContext.cs",
+              "RelativeToolTip": "SampleMVC\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T04:20:34.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SampleMVC\\SampleMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "SampleMVC\\appsettings.json",
+              "ToolTip": "D:\\SampleMVC\\SampleMVC\\appsettings.json",
+              "RelativeToolTip": "SampleMVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-29T04:25:00.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\SampleMVC\\SampleMVC\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "SampleMVC\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\SampleMVC\\SampleMVC\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "SampleMVC\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAcwBcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T04:38:17.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240329043617_addingBookTable.cs",
+              "DocumentMoniker": "D:\\SampleMVC\\SampleMVC\\Migrations\\20240329043617_addingBookTable.cs",
+              "RelativeDocumentMoniker": "SampleMVC\\Migrations\\20240329043617_addingBookTable.cs",
+              "ToolTip": "D:\\SampleMVC\\SampleMVC\\Migrations\\20240329043617_addingBookTable.cs",
+              "RelativeToolTip": "SampleMVC\\Migrations\\20240329043617_addingBookTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T04:36:17.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\SampleMVC\\SampleMVC\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "SampleMVC\\Views\\Books\\Index.cshtml",
+              "ToolTip": "D:\\SampleMVC\\SampleMVC\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "SampleMVC\\Views\\Books\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T04:38:55.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SampleMVC.csproj",
+              "DocumentMoniker": "D:\\SampleMVC\\SampleMVC\\SampleMVC.csproj",
+              "RelativeDocumentMoniker": "SampleMVC\\SampleMVC.csproj",
+              "ToolTip": "D:\\SampleMVC\\SampleMVC\\SampleMVC.csproj",
+              "RelativeToolTip": "SampleMVC\\SampleMVC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-05T04:27:11.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "docker-compose.dcproj",
+              "DocumentMoniker": "D:\\SampleMVC\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "D:\\SampleMVC\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-01T05:37:48.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\SampleMVC\\SampleMVC\\Dockerfile",
+              "RelativeDocumentMoniker": "SampleMVC\\Dockerfile",
+              "ToolTip": "D:\\SampleMVC\\SampleMVC\\Dockerfile",
+              "RelativeToolTip": "SampleMVC\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-01T03:19:35.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\SampleMVC\\SampleMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SampleMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\SampleMVC\\SampleMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SampleMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T04:18:56.654Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
