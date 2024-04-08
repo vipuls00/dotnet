@@ -5,7 +5,6 @@ EXPOSE 8080
 
 # Define the build stage
 FROM mcr.microsoft.com/dotnet/sdk:5.0 AS build
-...
 
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
