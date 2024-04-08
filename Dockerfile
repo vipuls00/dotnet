@@ -10,8 +10,8 @@ EXPOSE 8080
 FROM mcr.microsoft.com/dotnet/sdk:8.0-nanoserver-1809 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
-COPY ["SampleMVC/SampleMVC.csproj", "SampleMVC/"]
-RUN dotnet restore "./SampleMVC/SampleMVC.csproj"
+COPY ["SampleMVC.csproj", "SampleMVC/"]
+RUN dotnet restore ".SampleMVC.csproj"
 COPY . .
 WORKDIR "/src/SampleMVC"
 RUN dotnet build "./SampleMVC.csproj" -c %BUILD_CONFIGURATION% -o /app/build
