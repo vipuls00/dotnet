@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vipul.sharma\\FInal-Project\\dotnetapp\\SampleMVC\\SampleMVC\\SampleMVC.csproj": {}
+    "C:\\Users\\vipul.sharma\\FInal-Project\\git\\dotnet\\SampleMVC\\SampleMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vipul.sharma\\FInal-Project\\dotnetapp\\SampleMVC\\SampleMVC\\SampleMVC.csproj": {
+    "C:\\Users\\vipul.sharma\\FInal-Project\\git\\dotnet\\SampleMVC\\SampleMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vipul.sharma\\FInal-Project\\dotnetapp\\SampleMVC\\SampleMVC\\SampleMVC.csproj",
+        "projectUniqueName": "C:\\Users\\vipul.sharma\\FInal-Project\\git\\dotnet\\SampleMVC\\SampleMVC.csproj",
         "projectName": "SampleMVC",
-        "projectPath": "C:\\Users\\vipul.sharma\\FInal-Project\\dotnetapp\\SampleMVC\\SampleMVC\\SampleMVC.csproj",
+        "projectPath": "C:\\Users\\vipul.sharma\\FInal-Project\\git\\dotnet\\SampleMVC\\SampleMVC.csproj",
         "packagesPath": "C:\\Users\\vipul.sharma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vipul.sharma\\FInal-Project\\dotnetapp\\SampleMVC\\SampleMVC\\obj\\",
+        "outputPath": "C:\\Users\\vipul.sharma\\FInal-Project\\git\\dotnet\\SampleMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vipul.sharma\\AppData\\Roaming\\NuGet\\NuGet.Config"
