@@ -4,7 +4,7 @@ WORKDIR /app
 EXPOSE 8080
 
 # Define the build stage
-FROM mcr.microsoft.com/dotnet/sdk:8.0-nanoserver-1809 AS build
+FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
 COPY ["SampleMVC.csproj", "SampleMVC/"]
