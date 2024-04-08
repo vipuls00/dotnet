@@ -11,7 +11,7 @@ COPY ["SampleMVC.csproj", "SampleMVC/"]
 RUN dotnet restore "./SampleMVC/SampleMVC.csproj"
 COPY . .
 WORKDIR "/src/SampleMVC"
-RUN dotnet build "./SampleMVC.csproj" -c $BUILD_CONFIGURATION -o /app/build
+RUN dotnet build "./SampleMVC.csproj" -c %BUILD_CONFIGURATION% -o /app/build
 
 # Define the publish stage
 FROM build AS publish
