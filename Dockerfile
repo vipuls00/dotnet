@@ -1,7 +1,5 @@
 FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS base
 WORKDIR /app
-EXPOSE 8080
-
 ENV DB_CONNECTION_STRING="your_connection_string_here"
  
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
@@ -10,6 +8,7 @@ WORKDIR /src
 COPY ["./SampleMVC.csproj", "SampleMVC/"]
 RUN dotnet restore "./SampleMVC/SampleMVC.csproj"
 WORKDIR "/src/SampleMVC"
+COPY . .
 RUN dotnet build "./SampleMVC.csproj" -c ${BUILD_CONFIGURATION} -o /app
 RUN dotnet publish "./SampleMVC.csproj" -c ${BUILD_CONFIGURATION} -o /app/publish /p:UseAppHost=false
  
